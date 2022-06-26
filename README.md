@@ -15,3 +15,18 @@
             alt="Instagram"
         >
 </p>
+<h align="left">✅ Telegram Bots and Projects 🤙</h>
+<p align="left">
+<div>
+    <a href="https://telegram.me/FileToLink4UBot">
+        <img
+            src="https://img.shields.io/badge/FileToLink4UBot-black?&style=for-the-badge&logo=telegram"
+            alt="Telegram"
+        >
+    </a>
+ <a href="https://telegram.me/FileStore4UBot">
+        <img
+            src="https://img.shields.io/badge/FileStore4UBot-black?&style=for-the-badge&logo=telegram"
+            alt="Telegram"
+        >
+    </a>
