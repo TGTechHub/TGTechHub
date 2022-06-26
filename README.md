@@ -3,21 +3,15 @@
 <h align="left">✅ Join Telegram and Instagram 🤙</h>
 <p align="left">
 <div>
-    <a href="https://github.com/rohith-sreedharan">
-        <img
-            src="https://img.shields.io/badge/GitHub-black?&style=for-the-badge&logo=github"
-            alt="GitHub"
-        >
-    </a>
-    <a href="https://telegram.me/rohithaditya">
+    <a href="https://telegram.me/TGTechHub">
         <img
             src="https://img.shields.io/badge/Telegram-black?&style=for-the-badge&logo=telegram"
             alt="Telegram"
         >
     </a>
- <a href="https://twitter.com/rohithaditya">
+ <a href="https://Instagram.com/gauravjat4x">
         <img
-            src="https://img.shields.io/badge/Twitter-black?&style=for-the-badge&logo=twitter"
-            alt="Twitter"
+            src="https://img.shields.io/badge/Instagram-black?&style=for-the-badge&logo=Instagram"
+            alt="Instagram"
         >
 </p>
