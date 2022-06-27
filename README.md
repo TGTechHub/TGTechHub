@@ -31,6 +31,6 @@
         >
     </a>
 <img
-            src="https://telegra.ph/file/617c0cc643d2d536e3a9d.jpg"
+            src="https://i.ibb.co/FgF2zCT/IMG-20220627-093217.jpg"
             alt="Love💕😘"
         >
