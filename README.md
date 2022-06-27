@@ -14,6 +14,13 @@
             src="https://img.shields.io/badge/Instagram-black?&style=for-the-badge&logo=Instagram"
             alt="Instagram"
         >
+<a href="https://youtube.com/channel/UChNjEDxsM-8f36D8rfRzoVQ">
+        <img
+            src="https://img.shields.io/badge/YouTube-black?&style=for-the-badge&logo=youtube"
+            alt="YouTube"
+        >
+    </a> 
+
 </p>
 <h align="left">✅ Telegram Bots and Projects 🤙</h>
 <p align="left">
