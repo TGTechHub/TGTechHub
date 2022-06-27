@@ -31,6 +31,6 @@
         >
     </a>
 <img
-            src="https://img.shields.io/badge/Telegram-black?&style=for-the-badge&logo=telegram"
+            src="https://github.com/TGTechHub/TGTechHub/blob/main/GIF-220627_065926.gif"
             alt="Love💕😘"
         >
