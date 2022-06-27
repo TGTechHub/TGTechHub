@@ -31,6 +31,6 @@
         >
     </a>
 <img
-            src="https://i.ibb.co/w7NWSJQ/GIF-220627-092231.gif"
+            src="https://telegra.ph/file/617c0cc643d2d536e3a9d.jpg"
             alt="Love💕😘"
         >
