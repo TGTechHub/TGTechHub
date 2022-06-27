@@ -31,6 +31,6 @@
         >
     </a>
 <img
-            src="https://github.com/TGTechHub/TGTechHub/blob/main/GIF-220627_065926.gif"
+            src="https://i.ibb.co/w7NWSJQ/GIF-220627-092231.gif"
             alt="Love💕😘"
         >
